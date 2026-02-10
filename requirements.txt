@@ -1,0 +1,10 @@
+streamlit
+fastapi
+uvicorn
+python-dotenv
+requests
+pandas
+pydantic
+pypdf
+langchain-groq
+langchain-core

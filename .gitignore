@@ -1,0 +1,6 @@
+.env
+.env.docker
+.ipynb_checkpoints/
+*.db
+__pycache__/
+*.pyc

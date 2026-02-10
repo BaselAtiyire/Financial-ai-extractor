@@ -1,0 +1,45 @@
+{
+  "company": "Apple",
+  "records": [
+    {
+      "metric_type": "quarter",
+      "period_end": "2025-12-31",
+      "year": null,
+      "revenue_billion_usd": 143.756,
+      "yoy_change_percent": 15.65,
+      "yoy_direction": "increase"
+    },
+    {
+      "metric_type": "twelve_months",
+      "period_end": "2025-12-31",
+      "year": null,
+      "revenue_billion_usd": 435.617,
+      "yoy_change_percent": 10.07,
+      "yoy_direction": "increase"
+    },
+    {
+      "metric_type": "annual",
+      "period_end": null,
+      "year": 2025,
+      "revenue_billion_usd": 416.161,
+      "yoy_change_percent": 6.43,
+      "yoy_direction": "increase"
+    },
+    {
+      "metric_type": "annual",
+      "period_end": null,
+      "year": 2024,
+      "revenue_billion_usd": 391.035,
+      "yoy_change_percent": 2.02,
+      "yoy_direction": "increase"
+    },
+    {
+      "metric_type": "annual",
+      "period_end": null,
+      "year": 2023,
+      "revenue_billion_usd": 383.285,
+      "yoy_change_percent": -2.8,
+      "yoy_direction": "decline"
+    }
+  ]
+}
