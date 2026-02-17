@@ -20,14 +20,14 @@ Streamlit UI (port 8501)
 
 ## Features
 
-- ✅ Text input + (optional) PDF upload (text-based PDFs)
-- ✅ Batch processing (multiple paragraphs separated by blank lines)
-- ✅ JSON output with schema validation (Pydantic)
-- ✅ Table view (Measure / Estimated / Actual)
-- ✅ Download results as CSV + JSON
-- ✅ Run history (last 5 extractions)
-- ✅ FastAPI docs at `/docs` with **Authorize** button (X-API-Key)
-- ✅ Docker-ready setup
+- Text input + (optional) PDF upload (text-based PDFs)
+- Batch processing (multiple paragraphs separated by blank lines)
+- JSON output with schema validation (Pydantic)
+- Table view (Measure / Estimated / Actual)
+- Download results as CSV + JSON
+- Run history (last 5 extractions)
+- FastAPI docs at `/docs` with **Authorize** button (X-API-Key)
+- Docker-ready setup
 
 ---
 
@@ -36,10 +36,10 @@ ai-projects/
 ├─ app.py # Streamlit UI
 ├─ api.py # FastAPI backend
 ├─ requirements.txt # Python deps
-├─ .env # local secrets (DO NOT COMMIT)
-├─ .env.docker # docker env (DO NOT COMMIT)
-├─ Dockerfile # docker build (optional)
-└─ start.sh # docker startup (optional)
+├─ .env # local secrets 
+├─ .env.docker # docker env 
+├─ Dockerfile # docker build 
+└─ start.sh # docker startup 
 
 
 ---
@@ -120,7 +120,6 @@ Basel Atiyire
 
 ---
 
-If you re-upload `requirements.txt` (and confirm whether you want Docker instructions included), I’ll tailor this README exactly to your current setup and commands.
 
 
 
