@@ -1,5 +1,8 @@
 # Financial AI Extractor (FastAPI + Streamlit + Groq LLM)
 
+ Live Demo: https://financial-ai-extractor-production.up.railway.app
+📚 API Docs: https://financial-ai-extractor-production.up.railway.app/docs
+
 An AI-powered web app that extracts structured financial metrics (Actual vs Estimated) from unstructured earnings text (and text-based PDFs).  
 It provides:
 - A **FastAPI backend** with **OpenAPI/Swagger docs** and **API-key auth**
